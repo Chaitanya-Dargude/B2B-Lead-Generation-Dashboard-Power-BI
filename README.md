@@ -73,3 +73,6 @@ Leads that opted out of emails had lower visit time and fewer conversions, showi
   3. Improve conversion by aligning content with high-performing segments
 
 - It demonstrates the real-world application of data visualization and analytics for better business decision-making — and showcases my growing expertise in Power BI, DAX, and data storytelling.
+
+  <img width="1580" height="913" alt="Dashboard" src="https://github.com/user-attachments/assets/1cc79206-ad8d-4ccb-ae0d-ca43006d49b8" />
+
